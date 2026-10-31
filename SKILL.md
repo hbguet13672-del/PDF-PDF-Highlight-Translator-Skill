@@ -1,5 +1,5 @@
 ---
-name: paperlens
+name: PHTtranslator
 description: 为科研论文 PDF 高亮重点，在注释中翻译，并补充图内英文翻译。
 ---
 
